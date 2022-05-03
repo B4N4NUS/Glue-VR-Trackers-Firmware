@@ -13,7 +13,7 @@
  
  Added functionality to send tracker to sleep if it's not connected to wifi or server or imu isn't rotating for a period of time.
  
- Also GlueVR server can disable trackers from it's UI.
+ Also [GlueVR server](https://github.com/B4N4NUS/Glue-VR) can disable trackers from it's UI.
 
 # Schematics
 ![Schematic_Glue](https://user-images.githubusercontent.com/71143870/166474426-b14eac9c-5f89-4a19-888a-9d8699cdaecf.png)
