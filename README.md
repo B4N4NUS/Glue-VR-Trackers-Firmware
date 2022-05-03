@@ -1,5 +1,8 @@
 # Glue-VR-Trackers-Firmware
  Just a SlimeVR trackers firmware with some minor changes
+ 
+# Current support
+ Now GlueVR trackers only support MPU6050, but I'll fix it someday.
 
 # Changes to SlimeVR Tracker firmware
  Got rid of the power switch. Now trackers using deepsleep as an alternative to cut ther power off.
