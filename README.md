@@ -5,7 +5,7 @@
  Now GlueVR trackers only support MPU6050, but I'll fix it someday.
 
 # Changes to SlimeVR Tracker firmware
- Got rid of the power switch. Now trackers using deepsleep as an alternative to cut ther power off.
+ Got rid of the power switch. Now trackers are using deepsleep as an alternative to manualy cut ther power off.
  
  Switch was replaced with button connected to RST on microcontroller.
  
@@ -21,7 +21,7 @@
 
 
 
-# SlimeVR Tracker firmware for ESP
+# (Slime VR README) SlimeVR Tracker firmware for ESP
 
 Firmware for ESP8266 / ESP32 microcontrollers and different IMU sensors to use them as a vive-like trackers in VR.
 
